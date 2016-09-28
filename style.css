@@ -1,0 +1,72 @@
+header {
+  text-align: center;
+  background: url('http://alphatrans.co.uk/images/m/2010-08/o~h165m1w927/Banner%20Language.jpg');
+  background-size: cover;
+  color: white;
+}
+
+header:hover {
+  color: blue;
+}
+
+nav {
+  text-align: center;
+}
+body {
+  font-family: helvetica, sans-serif;
+  margin: 0 auto;
+  max-width: 600px;
+  background: #232323;
+}
+
+a {
+  color: grey;
+}
+
+h1 {
+  font-size: 40px;
+    color: white;
+}
+
+h3 {
+  color: white;
+  }
+
+img {
+  border: 3px solid white;
+  border-radius: 20px;
+  float: right;
+  margin: 0px 20px;
+}
+
+li {
+  display: inline;
+  padding: 0px 30px 0px 30px;
+}
+
+article {
+  max-width: 500px;
+  padding: 10px;
+  margin: 0 auto;
+}
+
+p {
+  color: white;
+ }
+
+table {
+  color: white;
+  padding: 10px;
+}
+
+footer {
+  background-color: grey;
+  margin: 20px 0px 0px 0px;
+  text-align: center;
+  border-top: 5px solid white;
+}
+
+.footerlink {
+  color: black;
+}
+
